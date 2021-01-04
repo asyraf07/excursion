@@ -2,18 +2,18 @@ body {
     background-color: black;
     text-align: center;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
 }
 a {
+    display: block;
     color: aquamarine;
     font-size: 16px;
 }
 h2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
     font-size: 42px;
 }
@@ -24,3 +24,6 @@ p {
 footer p{
     text-align: right;
 }
+/* #icon {
+    margin-top: 30px;
+} */
